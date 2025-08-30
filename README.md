@@ -7,6 +7,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Programmer+%F0%9F%92%BB;Student+%F0%9F%93%9D%EF%B8%8F;Bot+Developer+%F0%9F%94%A5;Always+Learning+Something+New+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <!-- Stylish Badges -->
+  <img src="https://komarev.com/ghpvc/?username=MR-TAMIM07&label=Profile+Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/MR-TAMIM07?label=Followers&style=flat&color=brightgreen" alt="followers" />
+  <img src="https://img.shields.io/github/stars/MR-TAMIM07?label=Stars&style=flat&color=yellow" alt="stars" />
+  <img src="https://img.shields.io/badge/Made%20With-Love%20💖-pink" />
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -35,7 +43,7 @@
 
 ## 🔥 My Vibes
 <p align="center">
-  <img src="https://files.catbox.moe/zyck6c.gif" width="400px">
+  <img src="https://files.catbox.moe/1kbgz2.gif" width="400px">
 </p>
 
 ```bash
