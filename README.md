@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://files.catbox.moe/1kbgz2.gif" width="100%" />
+</p>
+
 <h1 align="center">𓆩𝐂.𝐄.𝐎⸙𝐓𝐀𝐌𝐈𝐌𓆪</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Programmer+%F0%9F%92%BB;Student+%F0%9F%93%9D%EF%B8%8F;Bot+Developer+%F0%9F%94%A5;Always+Learning+Something+New+%F0%9F%92%AB" alt="Typing SVG" />
@@ -30,6 +34,10 @@
 ---
 
 ## 🔥 My Vibes
+<p align="center">
+  <img src="https://files.catbox.moe/zyck6c.gif" width="400px">
+</p>
+
 ```bash
 while(alive){
   eat();
