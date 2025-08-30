@@ -43,7 +43,7 @@
 
 ## 🔥 My Vibes
 <p align="center">
-  <img src="https://files.catbox.moe/1kbgz2.gif" width="400px">
+  <img src="https://files.catbox.moe/zyck6c.gif" width="400px">
 </p>
 
 ```bash
