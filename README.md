@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/1kbgz2.gif" width="100%" />
+  <img src="https://files.catbox.moe/noqwd8.gif" width="100%" />
 </p>
 
 <h1 align="center">𓆩𝐂.𝐄.𝐎⸙𝐓𝐀𝐌𝐈𝐌𓆪</h1>
@@ -12,13 +12,13 @@
   <img src="https://komarev.com/ghpvc/?username=MR-TAMIM07&label=Profile+Views&color=0e75b6&style=flat" alt="views" />
   <img src="https://img.shields.io/github/followers/MR-TAMIM07?label=Followers&style=flat&color=brightgreen" alt="followers" />
   <img src="https://img.shields.io/github/stars/MR-TAMIM07?label=Stars&style=flat&color=yellow" alt="stars" />
-  <img src="https://img.shields.io/badge/Made%20With-Love%20💖-pink" />
+  <img src="https://img.shields.io/badge/𝙈𝘼𝙙𝙚%20𝘽𝙔 𝙏𝘼𝙈𝙄𝙈 %20💖-black" />
 </p>
 
 ---
 
 ## 🧠 About Me
-- 👋 Hey! I'm **Tamim**, also known as `𓆩𝐂.𝐄.𝐎⸙𝐓𝐀𝐌𝐈𝐌𓆪`
+- 👋 Hey! I'm **𝙏𝘼𝙈𝙄𝙈**, also known as `𓆩𝐂.𝐄.𝐎⸙𝐓𝐀𝐌𝐈𝐌𓆪`
 - 🎯 Passionate about **JavaScript**, **Discord bots**, and **Automation**
 - 🧩 Arts Group student | SSC Target 🎯
 - 🇧🇩 From Naogaon, Bangladesh
@@ -41,15 +41,7 @@
 
 ---
 
-## 🔥 My Vibes
+## 𓆩ᴛꫝ֟፝ؖ۬ᴍɪᴍ᭄➳𝐁ⲟⲦᥫ᭡፝֟፝𓆪
 <p align="center">
-  <img src="https://files.catbox.moe/zyck6c.gif" width="400px">
+  <img src="https://files.catbox.moe/zyrlaz.jpg" width="400px">
 </p>
-
-```bash
-while(alive){
-  eat();
-  sleep();
-  code();
-  repeat();
-}
