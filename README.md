@@ -1,47 +1,55 @@
-<p align="center">
-  <img src="https://files.catbox.moe/noqwd8.gif" width="100%" />
-</p>
+<p align="center">  
+  <img src="https://files.catbox.moe/5dzojh.gif" width="100%" />  
+</p>  
 
-<h1 align="center">𓆩𝐂.𝐄.𝐎⸙𝐓𝐀𝐌𝐈𝐌𓆪</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Programmer+%F0%9F%92%BB;Student+%F0%9F%93%9D%EF%B8%8F;Bot+Developer+%F0%9F%94%A5;Always+Learning+Something+New+%F0%9F%92%AB" alt="Typing SVG" />
-</p>
+<h1 align="center">𓆩𝐂.𝐄.𝐎⸙𝐓𝐀𝐌𝐈𝐌𓆪</h1>  
 
-<p align="center">
-  <!-- Stylish Badges -->
-  <img src="https://komarev.com/ghpvc/?username=MR-TAMIM07&label=Profile+Views&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/MR-TAMIM07?label=Followers&style=flat&color=brightgreen" alt="followers" />
-  <img src="https://img.shields.io/github/stars/MR-TAMIM07?label=Stars&style=flat&color=yellow" alt="stars" />
-  <img src="https://img.shields.io/badge/𝙈𝘼𝙙𝙚%20𝘽𝙔 𝙏𝘼𝙈𝙄𝙈 %20💖-black" />
-</p>
+<p align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Programmer+%F0%9F%92%BB;Student+%F0%9F%93%9D%EF%B8%8F;Bot+Developer+%F0%9F%94%A5;Always+Learning+Something+New+%F0%9F%92%AB" alt="Typing SVG" />  
+</p>  
 
----
-
-## 🧠 About Me
-- 👋 Hey! I'm **𝙏𝘼𝙈𝙄𝙈**, also known as `𓆩𝐂.𝐄.𝐎⸙𝐓𝐀𝐌𝐈𝐌𓆪`
-- 🎯 Passionate about **JavaScript**, **Discord bots**, and **Automation**
-- 🧩 Arts Group student | SSC Target 🎯
-- 🇧🇩 From Naogaon, Bangladesh
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=MR-TAMIM07&label=Profile+Views&color=0e75b6&style=flat" alt="views" />  
+  <img src="https://img.shields.io/github/followers/MR-TAMIM07?label=Followers&style=flat&color=brightgreen" alt="followers" />  
+  <img src="https://img.shields.io/github/stars/MR-TAMIM07?label=Stars&style=flat&color=yellow" alt="stars" />  
+  <img src="https://img.shields.io/badge/Mᴀᴅᴇ%20Bʏ%20Tᴀᴍɪᴍ%20-white" />  
+</p>  
 
 ---
 
-## 🔧 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode" />
-</p>
+🧠 **About Me**
+
+👋 Hey! I'm Tᴀᴍɪᴍ
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-TAMIM07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-TAMIM07&theme=tokyonight" alt="Streak Stats" />
-</p>
+🔧 **Languages & Tools**
+
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode" />  
+</p>  
 
 ---
 
-## 𓆩ᴛꫝ֟፝ؖ۬ᴍɪᴍ᭄➳𝐁ⲟⲦᥫ᭡፝֟፝𓆪
-<p align="center">
-  <img src="https://files.catbox.moe/zyrlaz.jpg" width="400px">
-</p>
+📈 **GitHub Stats**
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=MR-TAMIM07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />  
+  <br>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-TAMIM07&theme=tokyonight" alt="Streak Stats" />  
+</p>  
+
+---
+
+Oʀᴇᴡᴀ Eʀᴇɴ Yᴇᴀɢᴇʀ
+
+<p align="center">  
+  <img src="https://files.catbox.moe/zyrlaz.jpg" width="400px">  
+</p>  
+
+---
+
+💬 **Fᴏʀ ʜᴇʟᴘ Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Aᴅᴍɪɴ Mᴇssᴇɴɢᴇʀ**  
+
+[![Messenger](https://img.shields.io/badge/Messenger-Blue?style=flat&logo=facebook-messenger&logoColor=blue)](https://m.me/its.x.tamim)  
+[![Support Group](https://img.shields.io/badge/Support-Group-9cf?style=flat&logo=messenger&logoColor=blue)](https://m.me/j/Abb2V26Y_VIYh_OM/)
