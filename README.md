@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=MR-TAMIM07&label=Profile+Views&color=0e75b6&style=flat" alt="views" />  
   <img src="https://img.shields.io/github/followers/MR-TAMIM07?label=Followers&style=flat&color=brightgreen" alt="followers" />  
   <img src="https://img.shields.io/github/stars/MR-TAMIM07?label=Stars&style=flat&color=yellow" alt="stars" />  
-  <img src="https://img.shields.io/badge/Mᴀᴅᴇ%20Bʏ%20Tᴀᴍɪᴍ%20-white" />  
+  <img src="https://img.shields.io/badge/Mᴀᴅᴇ%20Bʏ%20Tᴀᴍɪᴍ-white" />  
 </p>  
 
 ---
@@ -34,9 +34,9 @@
 📈 **GitHub Stats**
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-TAMIM07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MR-TAMIM07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />  
   <br>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-TAMIM07&theme=tokyonight" alt="Streak Stats" />  
+  <img src="https://streak-stats.demolab.com/?user=MR-TAMIM07&theme=tokyonight&hide_border=true" alt="Streak Stats" />  
 </p>  
 
 ---
